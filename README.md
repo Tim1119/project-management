@@ -47,4 +47,7 @@ the key should be genrated in user
 
 ### Task 3
 - The schema image is attached and name schema.png
-- Required api with cahcing is implemented in  project_management/project_management/api/project_api
+- All required doctypes can be found in project managemet folder
+
+### Task 4
+- Required api with endpoints with caching is implemented in  project_management/project_management/api/project_api
