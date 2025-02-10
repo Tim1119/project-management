@@ -6,9 +6,9 @@ app_email = "timothyinioluwa@gmail.com"
 app_license = "mit"
 
 
-fixtures = [
-    {"dt": "Task"}
-]
+# fixtures = [
+#     {"dt": "Task"}
+# ]
 
 
 # Apps
