@@ -39,3 +39,12 @@ bench new-app eglobalsphere_app
 ```
 - This initializes a new **Frappe app** named `eglobalsphere_app`.
 
+### Task 2
+a. The Custom doc "Task" can be migrated into the db. it is the fixtures folder  (project_management/project_management/fixtures)
+b. The api is implemented here (in project_management/project_management/api/task_api) api keys  would have to be generated  
+To access send a request from postman etc use  Authorization: token <api_key>:<api_secret>
+the key should be genrated in user
+
+### Task 3
+- The schema image is attached and name schema.png
+- Required api with cahcing is implemented in  project_management/project_management/api/project_api
